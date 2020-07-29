@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You can contact me into this social medias below:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ac-castro/)](https://www.linkedin.com/in/joao-ac-castro/)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Jonny_Castro?label=twitter&style=social">
