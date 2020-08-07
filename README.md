@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You can contact me into this social medias below:
+
+I have a degree in audiovisual production, but at the moment I am looking for something related to the information technology market, more precisely with front end web development.
+
+I am currently studying and updating my experiences in programming languages such as HTML5, CSS3 and JavaScript.
+
+You can check out some of my projects and contact me into this social medias below:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ac-castro/)](https://www.linkedin.com/in/joao-ac-castro/)
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Jonny_Castro?label=twitter&style=social">
