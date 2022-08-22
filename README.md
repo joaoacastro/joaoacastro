@@ -15,7 +15,7 @@
   
  <br>
  
-  ### You can contact me into this social medias below:
+  ### You can contact me into this social medias below 👇🏼
 
  
 <div> 
