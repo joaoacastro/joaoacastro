@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile 😁😎
+## Welcome to my GitHub profile 😁
 
  <div>
   <a href="https://github.com/joaoacastro">
