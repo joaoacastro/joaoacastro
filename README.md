@@ -1,13 +1,6 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=30&pause=1000&color=15F72A&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Can+you+call+me+João+Castro" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=40&pause=1000&color=15F72A&center=true&vCenter=true&width=635&height=80&lines=Hi+there!+👋;Can+you+call+me+João+Castro;Welcome+to+my+GitHub+profile+😁" alt="Typing SVG" /></a>
 </h1>
-
-<div align="center">
-
-  ## Welcome to my GitHub profile 😁
-
-</div>
-
 
 <div align="center">
   <a href="https://github.com/joaoacastro">
