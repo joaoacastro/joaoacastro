@@ -80,8 +80,3 @@
   <a href="https://instagram.com/jonnycastro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
 </div>
-
-  ![Snake animation](https://github.com/joaoacastro/joaoacastro/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https:/github-readme-stats.vercel.app/api/pin/?username=joaoacastro&repo=joaoacastro&theme=react)](https://github.com/joaoacastro/joaoacastro)
-
