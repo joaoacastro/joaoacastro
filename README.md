@@ -76,7 +76,7 @@
  
 </div>
 
-  ![Snake animation](https://github.com/joaoacastro/joaoacastro/blob/output/.github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaoacastro/joaoacastro/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=joaoacastro&repo=joaoacastro&theme=react)](https://github.com/joaoacastro/joaoacastro)
+[![readme](https:/github-readme-stats.vercel.app/api/pin/?username=joaoacastro&repo=joaoacastro&theme=react)](https://github.com/joaoacastro/joaoacastro)
 
