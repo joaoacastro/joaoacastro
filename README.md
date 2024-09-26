@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi, there!+👋;+can+you+call+me+...;...+João Antônio!;" />
+</h1>
+
 ## Welcome to my GitHub profile 😁
 
 <div>
@@ -70,6 +74,8 @@
   <a href="https://www.linkedin.com/in/joao-ac-castro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://instagram.com/jonnycastro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
-  ![Snake animation](https://github.com/joaoacastro/joaoacastro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaoacastro/joaoacastro/blob/output/.github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=joaoacastro&repo=joaoacastro&theme=react)](https://github.com/joaoacastro/joaoacastro)
 
 </div>
