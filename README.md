@@ -12,7 +12,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
   <img align="center" alt="PY" height ="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> 
-  <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
+  <img align="center" alt="Power BI" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
 </div>
   
  <br>
