@@ -34,7 +34,7 @@
     <br>
     <ul align="justify">
         <li>
-            🎓 Education: Degree in Audiovisual Production from Centro Universitário Senac, along with various courses focused on web development and programming (Alura, Udemy, Dio, Nerdin).
+            🎓 Education: Degree in Audiovisual Production from Centro Universitário Senac, along with various courses focused on web development and programming (Alura, Udemy, Dio, Nerdin). I also started a degree in Systems Analysis and Development at Anhembi Morumbi.
         </li>
             <br>
         <li>
