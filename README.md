@@ -21,7 +21,11 @@
   ◆
   <img align="center" alt="PY" height ="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> 
   ◆
-  <img align="center" alt="Power BI" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
+  <img align="center" alt="C#" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:1400/0*1o5jsGnQ6xijKFIm.png">
+  ◆
+  <img align="center" alt="dotnet" height="30" width="30" src="https://static.wikia.nocookie.net/logopedia/images/c/c7/Microsoft_.NET_StartupImage.svg/revision/latest/scale-to-width-down/512?cb=20200629113510">
+  ◆
+  <img align="center" alt="SQL Server" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSUBVncK8kDmMVHcaKdG97v1eun4XG7NB-w&s">
 </div>
     <br>
 
