@@ -29,58 +29,66 @@
 </div>
     <br>
 
-  <p align="justify"> Welcome to my GitHub! I'm passionate about technology, design, and creative solutions. My journey combines skills in <strong>front-end development</strong>, <strong>systems analysis</strong>, and <strong>audiovisual production</strong>, which allows me to blend aesthetics and functionality in digital products.</p>
+# 🌟 Hello!!
+
+I'm **João Antônio Cuchera de Castro**, a passionate developer and creative professional with a diverse background in technology, design, and audiovisual production. My work bridges the gap between aesthetics and functionality, delivering impactful and engaging digital solutions.</p>
     <br>
 
-## About me:
+---
+## 📖 About Me  
+🎓 **Education**  
+- Degree in Audiovisual Production from **Centro Universitário Senac**  
+- Various certifications in web development and programming from **Alura**, **Udemy**, **Dio**, and **Nerdin**  
+- Started a degree in Systems Analysis and Development at **Anhembi Morumbi**  
 
-<div>
-    <br>
-    <ul align="justify">
-        <li>
-            🎓 Education: Degree in Audiovisual Production from Centro Universitário Senac, along with various courses focused on web development and programming (Alura, Udemy, Dio, Nerdin). I also started a degree in Systems Analysis and Development at Anhembi Morumbi.
-        </li>
-            <br>
-        <li>
-            👨‍💻 Experience: I've worked as a Junior Front-End Developer, 3D Designer and Modeler, Photographer, Videomaker, Social Media Manager, Graphic Designer, and Motion Designer.
-        </li>
-            <br>
-        <li>
-            🔧 Technical Skills: HTML, CSS, JavaScript, React, Autodesk Fusion 360, Autodesk Maya, Blender, Python, Git/GitHub, Power BI, Advanced Excel, and much more.
-        </li>
-            <br>
-        <li>
-            🌱 Always Learning: Currently enhancing my skills in <strong>front-end development</strong> and <strong>data analysis</strong>, constantly seeking to learn and implement industry best practices.
-        </li>
-    </Ul>
-    <br>
-</div>
-<div>
+👨‍💻 **Professional Experience**  
+- Junior Front-End Developer  
+- 3D Designer and Modeler  
+- Photographer, Videomaker, and Social Media Manager  
+- Graphic Designer and Motion Designer  
 
-## Featured Projects
+🔧 **Technical Skills**  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **3D Modeling**: Autodesk Fusion 360, Autodesk Maya, Blender  
+- **Tools & Platforms**: Git/GitHub, Power BI, Advanced Excel  
+- **Other Skills**: Python, OBS Studio, Adobe Suite (Photoshop, Premiere, Illustrator, Lightroom)  
 
-<div align="justify">
-    🚀 Want to check out my best work? Take a look at the pinned projects below for a glimpse of my favorite and most impactful projects.
-</div>
-<br>
-<hr>
-<br>
-<div salign="justify">
-    If you're also passionate about technology or looking to collaborate on front-end, 3D, or data analysis projects, feel free to reach out! 🚀
-</div>
-<br>
+🌱 **Always Learning**  
+I'm continuously exploring new technologies, enhancing my expertise in **front-end development**, **data analysis**, and **3D modeling**, while integrating industry best practices into my projects.
 
-<hr>
+---
+
+## 🚀 Featured Projects  
+Here are some of my favorite projects that showcase my skills and creativity:  
+
+- 🎹 [**Piano DOM**](https://joaoacastro.github.io/pianoDOM) – An interactive piano built with HTML, CSS, and JavaScript.  
+- 🎮 [**Rock Paper Scissors Lizard Spock Game**](https://joaoacastro.github.io/RockPaperScissorsLizardSpockGame/) – A modern twist on the classic game using JavaScript logic.  
+- 📽️ [**PopFlix**](https://github.com/joaoacastro/popflix) – A React-based streaming app interface.  
+- 🎨 [**Pokedex**](https://joaoacastro.github.io/pokedex) – A Pokémon index showcasing API integration.  
+- 🧠 [**Emojis Memory Game**](https://github.com/joaoacastro/emojismemorygame) – A fun game with multiple difficulty levels and an intuitive design.  
+
+Explore my [GitHub Repositories](https://github.com/joaoacastro) for more!
+
+---
+
+## 🤝 Let's Connect!  
+I'm always open to collaboration and discussions on **front-end development**, **3D modeling**, or **data analysis** projects. Feel free to reach out!  
+
+📷 [Photography Portfolio](https://instagram.com/1801.photography)  
+🌐 [My Website](joaoacastro.github.io/curriculoDinamico/)  
+
+Let's build something amazing together! 🚀  
+
+---
+  
 <div align="center">
   
 ### You can contact me into this social medias below 👇🏼
 
-<div> 
- 
+<div>
   <a href = "mailto:joaoaccastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joao-ac-castro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://instagram.com/jonnycastro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 
-</div>
+ </div>
 </div>
 
