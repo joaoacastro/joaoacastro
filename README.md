@@ -28,10 +28,14 @@
   <img align="center" alt="SQL Server" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSUBVncK8kDmMVHcaKdG97v1eun4XG7NB-w&s">
 </div>
     <br>
-
+    
 # 🌟 Hello!!
 
-I'm **João Antônio Cuchera de Castro**, a passionate developer and creative professional with a diverse background in technology, design, and audiovisual production. My work bridges the gap between aesthetics and functionality, delivering impactful and engaging digital solutions.</p>
+<div align="center">
+  
+I'm *João Antônio Cuchera de Castro*, a passionate developer and creative professional with a diverse background in technology, design, and audiovisual production. My work bridges the gap between aesthetics and functionality, delivering impactful and engaging digital solutions.</p>
+
+</div>
     <br>
 
 ---
