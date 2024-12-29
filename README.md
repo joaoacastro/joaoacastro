@@ -33,7 +33,7 @@
 
 <div align="center">
   
-I'm *João Antônio Cuchera de Castro*, a passionate developer and creative professional with a diverse background in technology, design, and audiovisual production. My work bridges the gap between aesthetics and functionality, delivering impactful and engaging digital solutions.</p>
+I'm *João Antônio de Castro*, a passionate developer and creative professional with a diverse background in technology, design, and audiovisual production. My work bridges the gap between aesthetics and functionality, delivering impactful and engaging digital solutions.
 
 </div>
     <br>
